@@ -1,11 +1,7 @@
 # Retail Sales Analysis Project using SQL
 ##  Overview
 
-This project involves an end-to-end data analysis of a 
-retail sales dataset using Microsoft SQL Server (MSSQL).
-The goal is to explore the data, uncover key business 
-insights, and answer real-world business questions through 
-structured SQL queries.
+This project involves an end-to-end data analysis of a retail sales dataset using Microsoft SQL Server (MSSQL). The goal is to explore the data, uncover key business insights, and answer real-world business questions through structured SQL queries.
 
 The analysis covers:
 - Sales trends across different time periods
